@@ -1,4 +1,4 @@
-# Clasificador Automático de Archivos por Contenido
+# Organizador  Automático de Archivos con IA
 
 Este proyecto implementa un sistema de clasificación semántica de archivos usando
 modelos de lenguaje y clustering no supervisado. Analiza el contenido de los documentos
