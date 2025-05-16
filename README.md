@@ -1,4 +1,3 @@
-# Clasificador_de_archivos_AI
 # Clasificador Automático de Archivos por Contenido
 
 Este proyecto implementa un sistema de clasificación semántica de archivos usando
