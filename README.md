@@ -53,7 +53,9 @@ Los resultados se organizan automáticamente en subcarpetas creadas con base en 
 
 ## 7. Diagrama de Flujo
 
-![Diagrama de Flujo del Proceso](diagrama.png)
+<p align="center">
+  <img src="assets/diagrama.png" alt="Diagrama" width="350"/>
+</p>
 
 ## 8. Autora
 
