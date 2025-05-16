@@ -47,57 +47,32 @@ No se usa accuracy clásico. Validación por:
 
 ## 6. Ejecución
 
-```bash
 python clasificador.py
+
 Los resultados se organizan automáticamente en subcarpetas creadas con base en la temática detectada por GPT-4.
 
-
----
-
-### ✅ Corrige tu bloque de texto del diagrama de flujo (parece que no cerraste bien el bloque en ` ```text `):
-
-```md
 ## 7. Diagrama de Flujo
 
-```text
-┌────────────────────────────┐
-│      Leer archivos         │
-└────────────┬───────────────┘
-             ↓
-┌────────────────────────────┐
-│     Extraer contenido      │
-└────────────┬───────────────┘
-             ↓
-┌────────────────────────────┐
-│    Generar embeddings      │
-└────────────┬───────────────┘
-             ↓
-┌────────────────────────────┐
-│   Clustering con KMeans    │
-└────────────┬───────────────┘
-             ↓
-┌────────────────────────────────────────┐
-│ Evaluación GPT (temas y errores)       │
-└────────────┬───────────────────────────┘
-             ↓
-┌────────────────────────────────────────┐
-│ Crear carpetas con nombres temáticos   │
-└────────────┬───────────────────────────┘
-             ↓
-┌────────────────────────────┐
-│      Mover archivos        │
-└────────────┬───────────────┘
-             ↓
-┌────────────────────────────┐
-│ Analizar casos dudosos     │
-└────────────┬───────────────┘
-             ↓
-┌────────────────────────────┐
-│ Reubicar si es necesario   │
-└────────────────────────────┘
+[Leer archivos]
+     ↓
+[Extraer contenido]
+     ↓
+[Generar embeddings]
+     ↓
+[Clustering con KMeans]
+     ↓
+[Evaluación GPT (temas, nombres, errores)]
+     ↓
+[Crear carpetas con nombres temáticos]
+     ↓
+[Mover archivos]
+     ↓
+[Analizar casos dudosos]
+     ↓
+[Reubicar si es necesario]
 
 ## 8. Autora
 
-**Claudia Ximena Paz Cendejas**  
+Claudia Ximena Paz Cendejas  
 Proyecto desarrollado como parte de un sistema de organización inteligente de archivos impulsado por IA.
 
