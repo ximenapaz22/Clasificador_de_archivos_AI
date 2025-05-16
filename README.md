@@ -53,23 +53,7 @@ Los resultados se organizan automáticamente en subcarpetas creadas con base en 
 
 ## 7. Diagrama de Flujo
 
-[Leer archivos]
-     ↓
-[Extraer contenido]
-     ↓
-[Generar embeddings]
-     ↓
-[Clustering con KMeans]
-     ↓
-[Evaluación GPT (temas, nombres, errores)]
-     ↓
-[Crear carpetas con nombres temáticos]
-     ↓
-[Mover archivos]
-     ↓
-[Analizar casos dudosos]
-     ↓
-[Reubicar si es necesario]
+![Diagrama de Flujo del Proceso](diagrama.png)
 
 ## 8. Autora
 
