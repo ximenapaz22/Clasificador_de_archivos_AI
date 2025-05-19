@@ -56,7 +56,11 @@ Los resultados se organizan automáticamente en subcarpetas creadas con base en 
   <img src="diagrama.png" alt="Diagrama" width="350"/>
 </p>
 
-## 8. Autora
+
+## 8. Link video
+https://youtu.be/UTeMn-XLPbw
+
+## 9. Autora
 
 Claudia Ximena Paz Cendejas  
 Proyecto desarrollado como parte de un sistema de organización inteligente de archivos impulsado por IA.
